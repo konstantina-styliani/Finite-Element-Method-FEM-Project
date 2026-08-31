@@ -1,5 +1,7 @@
 # Finite-Element-Method-FEM-Project
 Course: Computational Electromagnetics
+
+
 Developed a MATLAB-based computational code implementing the Finite Element Method (FEM) for the numerical solution of electrostatic and electromagnetic field problems.
 Solved electrostatic problems, including a coaxial cable with air as the dielectric and a finite-width parallel-plate capacitor, calculating the total electrostatic energy and capacitance per unit length, as well as visualizing the electric field vector $\mathbf{E}$.
 Investigated electromagnetic wave propagation in a circular waveguide by calculating and visualizing the first nine TE and TM modes, together with the corresponding electric potential distribution $\mathbf{\Phi}$.
